@@ -1,4 +1,4 @@
-package com.example.barcode.service;
+package com.sample.barcode.service;
 
 import java.awt.Image;
 import java.awt.image.BufferedImage;
@@ -10,8 +10,8 @@ import javax.imageio.ImageIO;
 
 import org.springframework.stereotype.Service;
 
-import com.example.barcode.entity.BarcodeType;
-import com.example.barcode.entity.BarcodeVO;
+import com.sample.barcode.entity.BarcodeType;
+import com.sample.barcode.entity.BarcodeVO;
 
 import net.sourceforge.barbecue.Barcode;
 import net.sourceforge.barbecue.BarcodeException;

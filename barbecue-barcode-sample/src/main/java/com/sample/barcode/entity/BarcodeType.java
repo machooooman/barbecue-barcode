@@ -1,4 +1,4 @@
-package com.example.barcode.entity;
+package com.sample.barcode.entity;
 
 public enum BarcodeType {
 	CODE39,

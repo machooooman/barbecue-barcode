@@ -1,4 +1,4 @@
-package com.example.barcode.entity;
+package com.sample.barcode.entity;
 
 import java.awt.Font;
 import java.util.Optional;

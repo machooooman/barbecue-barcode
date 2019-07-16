@@ -1,4 +1,4 @@
-package com.example.barcode.controller;
+package com.sample.barcode.controller;
 
 
 import net.sourceforge.barbecue.BarcodeException;
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.barcode.entity.BarcodeType;
-import com.example.barcode.service.BarcodeUtil;
+import com.sample.barcode.entity.BarcodeType;
+import com.sample.barcode.service.BarcodeUtil;
 
 import java.io.File;
 import java.io.IOException;
